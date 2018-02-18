@@ -9,4 +9,6 @@ Add more apples!
 Throw ingredients in bag.
 Throw bag against wall.
 Repeat with other bag.
+Put the contents of one bag in the other.
 All done!
+
