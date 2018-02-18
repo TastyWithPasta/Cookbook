@@ -1,11 +1,11 @@
 Apple Pie
 
-=== List of Ingredients ===
-Yes please
+=== Ingredients ===
+Some other ingredients
+Lisa is bad at cooking
 
-=== Procedure ===
-Do this
-Then do that
-Dance around
-Cook at square temperature
+=== Process ===
+Throw ingredients in bag.
+Throw bag against wall.
+Repeat with other bag.
 All done!
